@@ -1,0 +1,15 @@
+{
+  "name": "ducky",
+  "version": "0.0.1",
+  "description": "just a ducky for you to debug",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "gprasanth",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
