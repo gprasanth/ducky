@@ -1,7 +1,7 @@
 {
-  "name": "@gprasanth/ducky",
+  "name": "ducky-debug",
   "version": "0.0.1",
-  "description": "just a ducky for you to debug",
+  "description": "just a ducky for you to debug along with",
   "main": "index.js",
   "scripts": {
     "build": "tsc -p ."
