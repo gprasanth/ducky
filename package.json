@@ -1,5 +1,5 @@
 {
-  "name": "ducky",
+  "name": "@gprasanth/ducky",
   "version": "0.0.1",
   "description": "just a ducky for you to debug",
   "main": "index.js",
@@ -11,5 +11,17 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.1.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gprasanth/ducky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gprasanth/ducky/issues"
+  },
+  "homepage": "https://github.com/gprasanth/ducky#readme"
 }
